@@ -24,7 +24,7 @@ ASF.json
   //ASFObzor Configuration
   "ASFObzor": {
     "Cookie": "user=00000000000000000000000000",
-    "BotUse": [],
+    "BotUse": [765111111111111110,76550000000000000],
     "BotNotUse": [],
     "BotNotPay": [],
     "PlayGamesFile": false,
