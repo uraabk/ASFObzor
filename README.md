@@ -37,7 +37,7 @@ ASF.json
     "MinTime": 0,
     "AddAcc": 0,
     "Replay": false,
-    "TimeChek": 10,
+    "TimeChek": 10
   }
 }
 ```
