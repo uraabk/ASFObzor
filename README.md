@@ -29,14 +29,13 @@ ASF.json
   //ASFObzor Configuration
   "ASFObzor": {
     "Cookie": "user=00000000000000000000000000",
-    "BotUse": [765111111111111110,76550000000000000],
     "BotNotUse": [],
     "TimeChek": 10,
     "Replay": false,
     "LangDefault": "russian",
     "Log": true,
     "AddTask": true,
-    "BotUse": [],
+    "BotUse": [765111111111111110,76550000000000000],
     "AddAcc": 0,
     "MinPriceGame": 0,
     "MaxPriceGame": 0,
