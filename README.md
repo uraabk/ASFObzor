@@ -1,9 +1,9 @@
 # ASFObzor
 Плагин `ASFObzor` для ASF, под [сайт](https://obzor.biz/).
 
-Версия плагина 0.1.0.0 (бета) Для получения обращайтесь - [@the_honkler](https://t.me/the_honkler).
+Версия плагина 0.1.1.0 (бета) Для получения обращайтесь - [@the_honkler](https://t.me/the_honkler).
 
-Версия ArchiSteamFarm V6.0.0.3
+Версия ArchiSteamFarm [![Версия ArchiSteamFarm](https://img.shields.io/github/v/release/JustArchiNET/ArchiSteamFarm.svg?label=Stable&logo=github&cacheSeconds=600)](https://github.com/JustArchiNET/ArchiSteamFarm/releases/latest)
 
 ## КОМАНДЫ
 
